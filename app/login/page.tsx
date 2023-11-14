@@ -20,7 +20,7 @@ export default function LoginPage() {
       </div>
       <div className={`${lusitana.className} flex flex-col items-center justify-center rounded-lg bg-gray-50 px-6 pb-4 pt-8 text-xl`}>
         Use this test account! <span role="img" aria-label="smile">😀</span>
-        <span>Email: user@nextemail.com</span>
+        <span>Email: user@nextmail.com</span>
         <span>Password: 123456</span>
       </div>
     </main>
